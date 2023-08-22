@@ -1,0 +1,7 @@
+{
+  "name": "tp-ionic-http",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
